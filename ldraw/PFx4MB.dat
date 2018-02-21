@@ -1,0 +1,14 @@
+0 PFx 4 MB IR
+0 Name: PFx4MB.dat
+0 Author: Fx Bricks
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 4 -39.75 4 1 0 0 0 0 -1 0 1 0 s\PFx4MBLid.dat
+1 72 4 -3.75 4 1 0 0 0 0 -1 0 1 0 s\PFxBase.dat
+1 0 4 -34 4 1 0 0 0 0 -1 0 1 0 s\PFx2mmConnectors.dat
+1 383 4 -39 37 1 0 0 0 0 -1 0 1 0 s\USBShell.dat
+1 0 4 -44 37 1 0 0 0 0 -1 0 1 0 s\USBPinHousing.dat
+1 334 4 -39 37 1 0 0 0 0 -1 0 1 0 s\USBPins.dat
+1 40 30 -72 10 -1 0 0 0 1 0 0 0 -1 3065.dat
+0

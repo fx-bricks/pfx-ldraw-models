@@ -1,0 +1,9 @@
+0 PFx XL Speaker
+0 Name: PFxXLSpeaker.dat
+0 Author: Fx Bricks
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 4 -3.75 4 1 0 0 0 0 -1 0 1 0 s\PFxXLSpeakerBase.dat
+1 0 0 -45 0 1 0 0 0 0 -1 0 1 0 s\PFxXLSpeakerInsert.dat
+0
