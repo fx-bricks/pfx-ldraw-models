@@ -2,9 +2,6 @@
 0 FILE PFPins.dat
 0 Name: pfpins.dat
 0 Author: Fx Bricks
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-0 BFC CERTIFY CCW
 3 16 -33.5625 -52.5 13.0625 -35.4375 -27.5 13.0625 -33.5625 -27.5 13.0625 
 3 16 -33.5625 -52.5 13.0625 -35.4375 -52.5 13.0625 -35.4375 -27.5 13.0625 
 3 16 -33.5625 -52.5 14.9375 -33.5625 -27.5 13.0625 -33.5625 -27.5 14.9375 

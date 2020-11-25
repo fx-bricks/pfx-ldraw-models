@@ -18,21 +18,14 @@ For example, for Bricksmith users on macOS, add the Fx Bricks LDraw parts as fol
 
 Make sure to reload/re-index the parts library in any tool that uses your LDraw installation.
 
-## Track Elements
-
-![alt text](./images/TrackTop.png "Track Top")
-![alt text](./images/TrackOverview.png "Track Overview")
-
-![alt text](./images/TrackImage.png "Track Image")
-
-
-
 ## Changelog
 
 - Oct 2020: Added new PFx Brick V2 (injection molded PFx Brick) and XL Speaker Brick V2 (injection molded)
 
 ![alt text](./images/Montage2020.png "PFx Brick")
 
-- Nov 2020: Added detailed RC plastic track and metal/9V Fx Track elements
+- Nov 2020: 
+  * Rehosted Fx Track (9V/metal) track elements to [Fx Bricks fx-track-ldraw](https://github.com/fx-bricks/fx-track-ldraw) repository
+  * Rehosted RC/plastic track elements to [L-Gauge.org ldraw-lib](https://github.com/l-gauge/ldraw-lib)
   
-![alt text](./images/TrackImage.png "PFx Brick")
+

@@ -64,8 +64,8 @@ files = {
         ],
         "outfile": "XLSpeakerV2.dat",
     },
-    "XLSpeakerCase": {"srcfile": "XLSpeakerCase.step", "outfile": "s/XLSpeakerCase.dat"},
-    "XLSpeakerCone": {"srcfile": "XLSpeakerCone.step", "outfile": "s/XLSpeakerCone.dat"},
+    # "XLSpeakerCase": {"srcfile": "XLSpeakerCase.step", "outfile": "s/XLSpeakerCase.dat"},
+    # "XLSpeakerCone": {"srcfile": "XLSpeakerCone.step", "outfile": "s/XLSpeakerCone.dat"},
 }
 
 
@@ -91,7 +91,7 @@ for k, v in files.items():
         solid = obj.vals()
         edges = obj.edges().vals()
         triangles, vertices = triangle_mesh_solid(solid, lin_tol=5e-2, ang_tol=0.5)
-        edges = discretize_all_edges(edges, curve_res=12, circle_res=48, as_pts=True)
+        edges = discretize_all_edges(edges, curve_res=12, circle_res=24, as_pts=True)
         print("Vertices: %d" % (len(vertices)))
         print("triangles: %d" % (len(triangles)))
         print("Edges: %d" % (len(edges)))

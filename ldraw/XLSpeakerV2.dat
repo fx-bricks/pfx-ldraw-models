@@ -1,8 +1,7 @@
-0 FxBricks XL Speaker V2
+0 XLSpeakerV2.dat
 0 FILE XLSpeakerV2.dat
-0 Name: XLSpeakerV2.dat
+0 Name: xlspeakerv2.dat
 0 Author: Fx Bricks
-0 Unofficial Model
 1 71 0 0 0 1 0 0 0 1 0 0 0 1 s/XLSpeakerCase.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s/XLSpeakerCone.dat
 0 NOFILE

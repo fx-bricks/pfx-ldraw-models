@@ -1,10 +1,7 @@
-0 FxBricks PFx Brick V2
+0 PFxBrickV2.dat
 0 FILE PFxBrickV2.dat
-0 Name: pfxbrickV2.dat
+0 Name: pfxbrickv2.dat
 0 Author: Fx Bricks
-0 Unofficial Model
-0 // PFx Brick composite assembly
-0 // Injection molded version introduced Jun 2020
 1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/PFxBaseV2.dat
 1 71 0 0 0 1 0 0 0 1 0 0 0 1 s/PFxLidV2.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s/PFxPCBV2.dat
