@@ -25,7 +25,7 @@ Make sure to reload/re-index the parts library in any tool that uses your LDraw 
 ![alt text](./images/Montage2020.png "PFx Brick")
 
 - Nov 2020: 
-  * Rehosted Fx Track (9V/metal) track elements to [Fx Bricks fx-track-ldraw](https://github.com/fx-bricks/fx-track-ldraw) repository
-  * Rehosted RC/plastic track elements to [L-Gauge.org ldraw-lib](https://github.com/l-gauge/ldraw-lib)
+  * Rehosted Fx Track (9V/metal) track elements to **[Fx Bricks fx-track-ldraw](https://github.com/fx-bricks/fx-track-ldraw)** repository
+  * Rehosted RC/plastic track elements to **[L-Gauge.org ldraw-lib](https://github.com/l-gauge/ldraw-lib)** repository
   
 
